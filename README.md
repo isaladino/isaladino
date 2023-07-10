@@ -5,12 +5,14 @@
 - ## 👀 mis protectos a corto plazo
 
 - Viajar
-- Aprender todo lo de ingenieria de sistemas 
+- Aprender todo lo de ingenieria de sistemas
+- mi casa 
   
 - ## 🌱 mis logros
 -
 - - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ## 📫 Contactame
+- isaladino.psico.sst@gmail.com
 
 <!---
 isaladino/isaladino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
